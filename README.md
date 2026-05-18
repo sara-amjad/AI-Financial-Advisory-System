@@ -32,3 +32,12 @@ The prototype integrates Artificial Intelligence (AI), Machine Learning (ML), an
 5. 🔐 Security verification performed  
 6. 📊 Financial trends and risks visualised  
 7. 🎯 Decision-making support provided to analysts  
+
+## 🚀 Prototype Development and Implementation
+
+### 🤖 AI Financial Advisory Prototype
+An AI-powered financial advisory prototype was developed to support decision-making, risk analysis, and client interaction within a simulated banking environment.
+
+The prototype combines Machine Learning and Natural Language Processing technologies to improve financial analysis, automate reporting, and provide intelligent conversational support for financial professionals.
+
+
